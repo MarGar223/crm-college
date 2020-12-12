@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Klientai>
+    <Klientas>
+        <id>1</id>
+        <vardas>Gabija</vardas>
+        <pavarde>Valaitytė</pavarde>
+        <elPastas>Gabija606@gmail.com</elPastas>
+        <telefonas>865728369</telefonas>
+        <miestas>Vilnius</miestas>
+        <Irasai>
+            <Irasas>
+                <id>35</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>1</klientas_id>
+                <vadybininkas>Saulius Pilkauskas</vadybininkas>
+                <irasas> Vel orci porta non pulvinar neque laoreet suspendisse interdum</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>51</id>
+                <data_ir_laikas>2020-12-02 13:10:16</data_ir_laikas>
+                <klientas_id>1</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas>nu nu</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+            <Irasas>
+                <id>52</id>
+                <data_ir_laikas>2020-12-02 13:10:42</data_ir_laikas>
+                <klientas_id>1</klientas_id>
+                <vadybininkas>Gytis Å½ukas</vadybininkas>
+                <irasas>123</irasas>
+                <tipas>Uzklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>54</id>
+                <data_ir_laikas>2020-12-02 13:13:20</data_ir_laikas>
+                <klientas_id>1</klientas_id>
+                <vadybininkas>Saulius Pilkauskas</vadybininkas>
+                <irasas>234</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>3</id>
+        <vardas>Emilija</vardas>
+        <pavarde>Stonkutė</pavarde>
+        <elPastas>Emilija34@gmail.com</elPastas>
+        <telefonas>862422855</telefonas>
+        <miestas>Kaunas</miestas>
+        <Irasai>
+            <Irasas>
+                <id>8</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>3</klientas_id>
+                <vadybininkas>Tadas Alisauskas</vadybininkas>
+                <irasas> Consectetur lorem donec massa sapien faucibus et molestie ac feugiat</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>4</id>
+        <vardas>Rokas</vardas>
+        <pavarde>Baranauskas</pavarde>
+        <elPastas>Rokas774@gmail.com</elPastas>
+        <telefonas>864839263</telefonas>
+        <miestas>Šiauliai</miestas>
+        <Irasai>
+            <Irasas>
+                <id>46</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>4</klientas_id>
+                <vadybininkas>Gytis Žukas</vadybininkas>
+                <irasas> Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>5</id>
+        <vardas>Emilija</vardas>
+        <pavarde>Petrulytė</pavarde>
+        <elPastas>Emilija624@gmail.com</elPastas>
+        <telefonas>861841872</telefonas>
+        <miestas>Palanga</miestas>
+        <Irasai>
+            <Irasas>
+                <id>12</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>5</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas> Arcu cursus euismod quis viverra nibh cras pulvinar mattis</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>43</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>5</klientas_id>
+                <vadybininkas>Saulius Pilkauskas</vadybininkas>
+                <irasas> Justo nec ultrices dui sapien eget mi proin sed libero</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+            <Irasas>
+                <id>48</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>5</klientas_id>
+                <vadybininkas>Saulius Pilkauskas</vadybininkas>
+                <irasas> Egestas pretium aenean pharetra magna ac placerat vestibulum</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>6</id>
+        <vardas>Kamilė</vardas>
+        <pavarde>Petrulytė</pavarde>
+        <elPastas>Kamilė321@gmail.com</elPastas>
+        <telefonas>868207295</telefonas>
+        <miestas>Šiauliai</miestas>
+        <Irasai />
+    </Klientas>
+    <Klientas>
+        <id>7</id>
+        <vardas>Dovydas</vardas>
+        <pavarde>Žiūkas</pavarde>
+        <elPastas>Dovydas589@gmail.com</elPastas>
+        <telefonas>861082877</telefonas>
+        <miestas>Šiauliai</miestas>
+        <Irasai>
+            <Irasas>
+                <id>18</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>7</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas> Eget nunc lobortis mattis aliquam faucibus purus in massa</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>23</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>7</klientas_id>
+                <vadybininkas>Gytis Žukas</vadybininkas>
+                <irasas> Justo nec ultrices dui sapien eget mi proin sed libero</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>8</id>
+        <vardas>Lukas</vardas>
+        <pavarde>Stankevičius</pavarde>
+        <elPastas>Lukas860@gmail.com</elPastas>
+        <telefonas>868982810</telefonas>
+        <miestas>Palanga</miestas>
+        <Irasai>
+            <Irasas>
+                <id>47</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>8</klientas_id>
+                <vadybininkas>Tadas Alisauskas</vadybininkas>
+                <irasas> Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>10</id>
+        <vardas>Ieva</vardas>
+        <pavarde>Valaitytė</pavarde>
+        <elPastas>Ieva808@gmail.com</elPastas>
+        <telefonas>861841872</telefonas>
+        <miestas>Vilnius</miestas>
+        <Irasai>
+            <Irasas>
+                <id>11</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>10</klientas_id>
+                <vadybininkas>Gytis Žukas</vadybininkas>
+                <irasas> Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>12</id>
+        <vardas>Ieva</vardas>
+        <pavarde>Petrulytė</pavarde>
+        <elPastas>Ieva808@gmail.com</elPastas>
+        <telefonas>861872785</telefonas>
+        <miestas>Klaipėda</miestas>
+        <Irasai />
+    </Klientas>
+    <Klientas>
+        <id>13</id>
+        <vardas>Emilija</vardas>
+        <pavarde>Petrulytė</pavarde>
+        <elPastas>Emilija36@gmail.com</elPastas>
+        <telefonas>862929789</telefonas>
+        <miestas>Kaunas</miestas>
+        <Irasai>
+            <Irasas>
+                <id>21</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>13</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas> Sed nisi lacus sed viverra tellus</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>14</id>
+        <vardas>Kamilė</vardas>
+        <pavarde>Valaitytė</pavarde>
+        <elPastas>Kamilė321@gmail.com</elPastas>
+        <telefonas>868982810</telefonas>
+        <miestas>Šiauliai</miestas>
+        <Irasai>
+            <Irasas>
+                <id>20</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>14</klientas_id>
+                <vadybininkas>Gytis Žukas</vadybininkas>
+                <irasas> Ipsum dolor sit amet consectetur adipiscing elit</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>15</id>
+        <vardas>Lukas</vardas>
+        <pavarde>Baranauskas</pavarde>
+        <elPastas>Lukas790@gmail.com</elPastas>
+        <telefonas>868096477</telefonas>
+        <miestas>Alytus</miestas>
+        <Irasai>
+            <Irasas>
+                <id>1</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>15</klientas_id>
+                <vadybininkas>Tadas Alisauskas</vadybininkas>
+                <irasas> Viverra orci sagittis eu volutpat odio</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>6</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>15</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas> Eget nunc lobortis mattis aliquam faucibus purus in massa</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>7</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>15</klientas_id>
+                <vadybininkas>Gytis Žukas</vadybininkas>
+                <irasas> Tellus integer feugiat scelerisque varius morbi enim nunc faucibus</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+            <Irasas>
+                <id>31</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>15</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas> Justo nec ultrices dui sapien eget mi proin sed libero</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>16</id>
+        <vardas>Dovydas</vardas>
+        <pavarde>Žukauskas</pavarde>
+        <elPastas>Dovydas481@gmail.com</elPastas>
+        <telefonas>861412595</telefonas>
+        <miestas>Alytus</miestas>
+        <Irasai>
+            <Irasas>
+                <id>2</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>16</klientas_id>
+                <vadybininkas>Saulius Pilkauskas</vadybininkas>
+                <irasas> Leo duis ut diam quam nulla porttitor massa id neque</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+            <Irasas>
+                <id>16</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>16</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas> Ipsum dolor sit amet consectetur adipiscing elit</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+            <Irasas>
+                <id>28</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>16</klientas_id>
+                <vadybininkas>Gytis Žukas</vadybininkas>
+                <irasas> Etiam erat velit scelerisque in dictum non consectetur a erat</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+            <Irasas>
+                <id>33</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>16</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas> Egestas pretium aenean pharetra magna ac placerat vestibulum</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>17</id>
+        <vardas>Rokas</vardas>
+        <pavarde>Žukauskas</pavarde>
+        <elPastas>Rokas975@gmail.com</elPastas>
+        <telefonas>864839263</telefonas>
+        <miestas>Panevėžys</miestas>
+        <Irasai>
+            <Irasas>
+                <id>17</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>17</klientas_id>
+                <vadybininkas>Gytis Žukas</vadybininkas>
+                <irasas> Sed nisi lacus sed viverra tellus</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+            <Irasas>
+                <id>19</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>17</klientas_id>
+                <vadybininkas>Tadas Alisauskas</vadybininkas>
+                <irasas> Egestas pretium aenean pharetra magna ac placerat vestibulum</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>40</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>17</klientas_id>
+                <vadybininkas>Tadas Alisauskas</vadybininkas>
+                <irasas> Nulla posuere sollicitudin aliquam ultrices</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+            <Irasas>
+                <id>41</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>17</klientas_id>
+                <vadybininkas>Saulius Pilkauskas</vadybininkas>
+                <irasas> Pretium nibh ipsum consequat nisl vel</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>42</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>17</klientas_id>
+                <vadybininkas>Saulius Pilkauskas</vadybininkas>
+                <irasas> Arcu cursus euismod quis viverra nibh cras pulvinar mattis</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>18</id>
+        <vardas>Austėja</vardas>
+        <pavarde>Valaitytė</pavarde>
+        <elPastas>Austėja692@gmail.com</elPastas>
+        <telefonas>863986789</telefonas>
+        <miestas>Šiauliai</miestas>
+        <Irasai>
+            <Irasas>
+                <id>14</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>18</klientas_id>
+                <vadybininkas>Tadas Alisauskas</vadybininkas>
+                <irasas> Arcu cursus euismod quis viverra nibh cras pulvinar mattis</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>20</id>
+        <vardas>Rokas</vardas>
+        <pavarde>Baranauskas</pavarde>
+        <elPastas>Rokas86@gmail.com</elPastas>
+        <telefonas>868743593</telefonas>
+        <miestas>Klaipėda</miestas>
+        <Irasai>
+            <Irasas>
+                <id>26</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>20</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas> Leo duis ut diam quam nulla porttitor massa id neque</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>45</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>20</klientas_id>
+                <vadybininkas>Saulius Pilkauskas</vadybininkas>
+                <irasas> Nulla posuere sollicitudin aliquam ultrices</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>21</id>
+        <vardas>Emilija</vardas>
+        <pavarde>Stonkutė</pavarde>
+        <elPastas>Emilija758@gmail.com</elPastas>
+        <telefonas>869773813</telefonas>
+        <miestas>Panevėžys</miestas>
+        <Irasai />
+    </Klientas>
+    <Klientas>
+        <id>22</id>
+        <vardas>Matas</vardas>
+        <pavarde>Gricius</pavarde>
+        <elPastas>Matas26@gmail.com</elPastas>
+        <telefonas>868111006</telefonas>
+        <miestas>Vilnius</miestas>
+        <Irasai>
+            <Irasas>
+                <id>25</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>22</klientas_id>
+                <vadybininkas>Saulius Pilkauskas</vadybininkas>
+                <irasas> Nulla posuere sollicitudin aliquam ultrices</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+            <Irasas>
+                <id>57</id>
+                <data_ir_laikas>2020-12-02 13:18:04</data_ir_laikas>
+                <klientas_id>22</klientas_id>
+                <vadybininkas>Saulius Pilkauskas</vadybininkas>
+                <irasas>testas</irasas>
+                <tipas>Uzklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>58</id>
+                <data_ir_laikas>2020-12-02 13:18:11</data_ir_laikas>
+                <klientas_id>22</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas>123</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>23</id>
+        <vardas>Lukas</vardas>
+        <pavarde>Baranauskas</pavarde>
+        <elPastas>Lukas826@gmail.com</elPastas>
+        <telefonas>868207295</telefonas>
+        <miestas>Alytus</miestas>
+        <Irasai>
+            <Irasas>
+                <id>9</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>23</klientas_id>
+                <vadybininkas>Saulius Pilkauskas</vadybininkas>
+                <irasas> Pretium nibh ipsum consequat nisl vel</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>38</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>23</klientas_id>
+                <vadybininkas>Saulius Pilkauskas</vadybininkas>
+                <irasas> Commodo odio aenean sed adipiscing diam donec</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>24</id>
+        <vardas>Dominykas</vardas>
+        <pavarde>Gricius</pavarde>
+        <elPastas>Dominykas795@gmail.com</elPastas>
+        <telefonas>866897258</telefonas>
+        <miestas>Šiauliai</miestas>
+        <Irasai>
+            <Irasas>
+                <id>13</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>24</klientas_id>
+                <vadybininkas>Tadas Alisauskas</vadybininkas>
+                <irasas> Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>30</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>24</klientas_id>
+                <vadybininkas>Tadas Alisauskas</vadybininkas>
+                <irasas> Lobortis elementum nibh tellus molestie nunc</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+            <Irasas>
+                <id>39</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>24</klientas_id>
+                <vadybininkas>Gytis Žukas</vadybininkas>
+                <irasas> Tortor condimentum lacinia quis vel</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>25</id>
+        <vardas>Gabija</vardas>
+        <pavarde>Stonkutė</pavarde>
+        <elPastas>Gabija189@gmail.com</elPastas>
+        <telefonas>864839263</telefonas>
+        <miestas>Palanga</miestas>
+        <Irasai>
+            <Irasas>
+                <id>4</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>25</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas> Justo nec ultrices dui sapien eget mi proin sed libero</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>29</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>25</klientas_id>
+                <vadybininkas>Tadas Alisauskas</vadybininkas>
+                <irasas> Etiam erat velit scelerisque in dictum non consectetur a erat</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>49</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>25</klientas_id>
+                <vadybininkas>Tadas Alisauskas</vadybininkas>
+                <irasas> Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>26</id>
+        <vardas>Rokas</vardas>
+        <pavarde>Žukauskas</pavarde>
+        <elPastas>Rokas933@gmail.com</elPastas>
+        <telefonas>861082877</telefonas>
+        <miestas>Šiauliai</miestas>
+        <Irasai />
+    </Klientas>
+    <Klientas>
+        <id>27</id>
+        <vardas>Rokas</vardas>
+        <pavarde>Baranauskas</pavarde>
+        <elPastas>Rokas998@gmail.com</elPastas>
+        <telefonas>862422855</telefonas>
+        <miestas>Palanga</miestas>
+        <Irasai>
+            <Irasas>
+                <id>3</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>27</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas> Etiam erat velit scelerisque in dictum non consectetur a erat</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+            <Irasas>
+                <id>34</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>27</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas> Etiam erat velit scelerisque in dictum non consectetur a erat</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>28</id>
+        <vardas>Emilija</vardas>
+        <pavarde>Petrulytė</pavarde>
+        <elPastas>Emilija34@gmail.com</elPastas>
+        <telefonas>869504283</telefonas>
+        <miestas>Kaunas</miestas>
+        <Irasai>
+            <Irasas>
+                <id>24</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>28</klientas_id>
+                <vadybininkas>Gytis Žukas</vadybininkas>
+                <irasas> Vel orci porta non pulvinar neque laoreet suspendisse interdum</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>30</id>
+        <vardas>Dominykas</vardas>
+        <pavarde>Žiūkas</pavarde>
+        <elPastas>Dominykas795@gmail.com</elPastas>
+        <telefonas>862084981</telefonas>
+        <miestas>Panevėžys</miestas>
+        <Irasai>
+            <Irasas>
+                <id>10</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>30</klientas_id>
+                <vadybininkas>Tomas Zizas</vadybininkas>
+                <irasas> Tortor condimentum lacinia quis vel</irasas>
+                <tipas>Atsakymas</tipas>
+            </Irasas>
+            <Irasas>
+                <id>27</id>
+                <data_ir_laikas>2020-12-02 13:10:04</data_ir_laikas>
+                <klientas_id>30</klientas_id>
+                <vadybininkas>Tadas Alisauskas</vadybininkas>
+                <irasas> Ut sem viverra aliquet eget sit amet tellus</irasas>
+                <tipas>Užklausa</tipas>
+            </Irasas>
+        </Irasai>
+    </Klientas>
+    <Klientas>
+        <id>31</id>
+        <vardas>Kamilė</vardas>
+        <pavarde>Stonkutė</pavarde>
+        <elPastas>Kamilė571@gmail.com</elPastas>
+        <telefonas>865728369</telefonas>
+        <miestas>Klaipėda</miestas>
+        <Irasai />
+    </Klientas>
+</Klientai>
