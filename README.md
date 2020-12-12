@@ -1,2 +1,2 @@
 # crm-college
-A CRM project that I had to create for my college
+This is my first git repo, so I wanted to add my CRM that I have created for a lesson at college using PHP, AJAX, SemanticUI and Materialize. The files are in the CRM folder with the screenshots of how the CRM looks. Also it includes a XML generator file that generates an XML for client data and their messages. The files are piled in one folder and I know that this isn't the best practice, but for a first project of this type I'm quite happy. Also I know that the CRM isn't sql injection safe as I haven't implemented it as there wasn't a requirement for it. You can always add this feature if you plan on using it somewhere :) Feel free to have a look around. 
